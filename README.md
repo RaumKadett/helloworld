@@ -1,2 +1,2 @@
 # helloworld
-first thing, i guess.
+Learning to Github.
